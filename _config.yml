@@ -1,15 +1,15 @@
-layout_spectrum: 0.37101567722857
-typography_spectrum: 0.3073967266827822
+layout_spectrum: 0.16969595081172884
+typography_spectrum: 0.7042866686824709
 color:
-  brandStrength: 0.3132315936964005
-  lightness: 0.390026853652671
-  saturation: 0.050282798474654555
-  rhythmicContrast: 0.6144241974689066
+  brandStrength: 0.29924681573174894
+  lightness: 0.49298308743163943
+  saturation: 0.5289883834775537
+  rhythmicContrast: 0.5808517411351204
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: MaFia
 title: Portfolio
